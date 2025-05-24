@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="segtrees.SumPlusAddTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-24T14:51:39.483Z" hostname="DESKTOP-4DFKJP4" time="0.007">
+  <properties/>
+  <testcase name="testSingleElement()" classname="segtrees.SumPlusAddTest" time="0.002"/>
+  <testcase name="testRandomOperations()" classname="segtrees.SumPlusAddTest" time="0.001"/>
+  <testcase name="testFullRange()" classname="segtrees.SumPlusAddTest" time="0.001"/>
+  <testcase name="testConsecutiveUpdates()" classname="segtrees.SumPlusAddTest" time="0.001"/>
+  <testcase name="testSmallFixedScenario()" classname="segtrees.SumPlusAddTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

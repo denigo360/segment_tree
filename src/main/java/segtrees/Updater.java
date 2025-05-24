@@ -1,8 +1,8 @@
-packege segtrees; 
+package segtrees;
 
-public interface Updater<T,U> 
+public interface Updater<T, U>
 {
-    T apply(T current,U update, int segmentLenght);
+    T apply(T current, U update, int segmentLength);
     U compose(U newer, U older);
     U identity();
 }
